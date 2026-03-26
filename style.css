@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: #00695c;
+    background: #00687d;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -64,7 +64,7 @@ main {
 }
 
 footer {
-    background: #1e3c2c;
+    background: #00687d;
     color: white;
     text-align: center;
     padding: 1.5rem;
@@ -91,7 +91,7 @@ input, select, textarea {
 }
 
 button {
-    background: #00695c;
+    background: #00387d;
     color: white;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -102,7 +102,7 @@ button {
 }
 
 button:hover {
-    background: #004d40;
+    background: #0086c9;
 }
 
 /* Cards for tips */
