@@ -31,4 +31,4 @@ https://adityasaini404.github.io/Clean-Water-Watch/
 ![Tips&Info](screenshots/tipsandinfo.png)
 
 ## GitHub Repository
-https://github.com/adityasaini404/Clean-Water-Watch
+https://github.com/adityasaini404/Clean-Water-Watch/
